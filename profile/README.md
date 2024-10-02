@@ -1,12 +1,11 @@
-## Hi there 👋
+# Theaceae Collective
 
-<!--
+👋 Hello - we are the Theaceae Collective, a small organization that is creating awesome things!
 
-**Here are some ideas to get you started:**
+Check out our projects:
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+### Camellia Wiki
+- [**Wiki Frontend**](https://github.com/CamelliaCommunity/wiki-frontend): The latest and greatest version of the front-facing Camellia Wiki, developed using NodeJS via Vue. This is a complete rewrite, with new design, better navigation.
+- [**Wiki Backend**](https://github.com/CamelliaCommunity/wiki-backend): The core of the Camellia Wiki's greatest features, written in C# via ASP.NET. The backend provides features such as comments, better article storage, authenication via Discord (and soon GitHub), and more.
+- [**Wiki Articles**](https://github.com/CamelliaCommunity/wiki-articles): The heart of the Camellia Wiki. The articles are neatly organized and easy to write via Markdown.
+- [**Wiki Legacy**](https://github.com/CamelliaCommunity/wiki): The current yet old Camellia Wiki. This is where it all started, powered by Jekyll.
