@@ -11,5 +11,5 @@ Check out our projects:
 ### Theaceae Home
 Coming soon
 
-### Unnamed Wiki Site
+### Porter Robinson Wiki
 Coming soon
