@@ -12,4 +12,6 @@ Check out our projects:
 Coming soon
 
 ### Porter Robinson Wiki
-Coming soon
+- [**Frontend**](https://github.com/theaceaecollective/porter-wiki-frontend): Front-facing Porter Robinson Wiki, developed using NodeJS via Vue. This is a complete rewrite, with new design, better navigation.
+- [**Backend**](https://github.com/theaceaecollective/porter-wiki-backend): Written in C# via ASP.NET. The backend provides features such as comments, better article storage, authenication via Discord (and soon GitHub), and more.
+- [**Articles**](https://github.com/theaceaecollective/porter-wiki-articles): The heart of the Porter Robinson Wiki. The articles are neatly organized and easy to write via Markdown.
