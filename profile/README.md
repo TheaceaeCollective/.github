@@ -8,8 +8,8 @@
 
 Check out our projects:
 
-### Theaceae Home
-Coming soon
+### Theaceae Home ([Visit](https://theaceae.org/))
+- [**Frontend**](https://github.com/TheaceaeCollective/theaceae-home): Static home site for the collective.
 
 ### Porter Robinson Wiki ([Visit](https://potaro.wiki/))
 - [**Frontend**](https://github.com/theaceaecollective/porter-wiki-frontend): Front-facing Porter Robinson Wiki, developed using NodeJS via Vue. This is a complete rewrite, with new design, better navigation.
