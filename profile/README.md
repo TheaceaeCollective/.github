@@ -17,4 +17,7 @@ Check out our projects:
 - [**Articles**](https://github.com/theaceaecollective/porter-wiki-articles): The heart of the Porter Robinson Wiki. The articles are neatly organized and easy to write via Markdown.
 
 ### Yell0w.net ([Visit](https://yell0w.net/))
-- [**Frontend**](https://github.com/TheaceaeCollective/dayellowwebsite): Pure HTML and CSS!
+- [**Frontend**](https://github.com/TheaceaeCollective/dayellowwebsite)
+
+### proto-eden.com ([Visit](https://proto-eden.com/))
+- [**Frontend**](https://github.com/TheaceaeCollective/proto-eden)
