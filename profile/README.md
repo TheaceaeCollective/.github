@@ -6,8 +6,13 @@
 
 👋 Hello - we are the Theaceae Collective, a small organization that creates things :)
 
-Check out our projects:
+## Mission
+In the collective, we attract hobbyists who wish to provide for the community they're in. When everything is in one place, it's easy to find software, and it's easy to help each other.
 
+## Join us
+If you're a programmer and you're creating software for the communities you love, you can join the organization and transfer your repositories here.
+
+## Check out our projects
 ### Theaceae Home ([Visit](https://theaceae.org/))
 - [**Frontend**](https://github.com/TheaceaeCollective/theaceae-home): Static home site for the collective.
 
@@ -21,3 +26,6 @@ Check out our projects:
 
 ### proto-eden.com ([Visit](https://proto-eden.com/))
 - [**Frontend**](https://github.com/TheaceaeCollective/proto-eden)
+
+## Help us write code
+After becoming a member of the Collective, please visit our [Discord](https://discord.gg/nUeRyRtDYC) or visit a repository from above. There may be some open issues!
