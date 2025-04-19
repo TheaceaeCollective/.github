@@ -1,8 +1,10 @@
 # Theaceae Collective
 
+<a href="theaceae.org" target="_blank">
 <p align="left">
   <img width="400" alt="collective logo" src="https://raw.githubusercontent.com/CamelliaCommunity/.github/refs/heads/main/maintainedby8Bit.png">
 </p>
+</a>
 
 👋 Hello - we are the Theaceae Collective, a small organization that creates things :)
 
