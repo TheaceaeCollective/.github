@@ -8,11 +8,13 @@
 
 👋 Hello - we are the Theaceae Collective, a small organization that creates things :)
 
+**Note:** As of 2025, we have been acquired by [Netro](https://github.com/NetroCorp).
+
 ## Mission
 In the collective, we attract hobbyists who wish to provide for the community they're in. When everything is in one place, it's easy to find software, and it's easy to help each other.
 
 ## Join us
-If you're a programmer and you're creating software for the communities you love, you can join our team and transfer your repositories here. Fill out an application [here](https://forms.gle/SNMPStL5kNd9yxZP7).
+If you're a programmer and you're creating software for the communities you love, you can join our team [here](https://forms.gle/SNMPStL5kNd9yxZP7)!
 
 ## Check out our projects
 ### Theaceae Home ([Visit](https://theaceae.org/))
