@@ -2,13 +2,11 @@
 
 <a href="https://theaceae.org" target="_blank">
 <p align="left">
-  <img width="400" alt="collective logo" src="https://raw.githubusercontent.com/CamelliaCommunity/.github/refs/heads/main/maintainedby8Bit.png">
+  <img width="400" alt="collective logo" src="https://raw.githubusercontent.com/TheaceaeCollective/.github/refs/heads/main/maintainedby8Bit.png">
 </p>
 </a>
 
 👋 Hello - we are the Theaceae Collective, a small organization that creates things :)
-
-**Note:** As of 2025, we have been acquired by [Netro](https://github.com/NetroCorp).
 
 ## Mission
 In the collective, we attract hobbyists who wish to provide for the community they're in. When everything is in one place, it's easy to find software, and it's easy to help each other.
