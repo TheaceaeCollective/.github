@@ -12,7 +12,7 @@
 In the collective, we attract hobbyists who wish for a worker-managed collective and to provide software that we all collectively believe in. We build tools that spark our collective interest and address human needs. Every product we make is built with the end user in mind.
 
 ## Structure
-We operate as a flat, member-led collective. There aren't any bosses or micromanagers, and every worker has a voice in building a better Solync. If that sounds cool, consider **joining us**!
+We operate as a flat, member-led collective. There aren't any bosses or micromanagers, and every worker has a voice in building a better Solync. If that sounds cool, consider [joining us](https://forms.gle/2wQw8X8kFooGQqSD9)!
 
 ## Check out our projects
 
